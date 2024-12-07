@@ -15,6 +15,9 @@
     "login": "vercel login",
     "logout": "vercel logout"
   },
+  "devDependencies": {
+    "vite": "^10.8.2"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
